@@ -1,0 +1,12 @@
+[submodule "TCP-Congestion-Control"]
+	path = TCP-Congestion-Control
+	url = https://github.com/parnianf/TCP-Congestion-Control.git
+[submodule "Wireless-Network-Simulation-Using-NS2"]
+	path = Wireless-Network-Simulation-Using-NS2
+	url = https://github.com/parnianf/Wireless-Network-Simulation-Using-NS2.git
+[submodule "Network-Routing-Protocols"]
+	path = Network-Routing-Protocols
+	url = https://github.com/parnianf/Network-Routing-Protocols.git
+[submodule "FTP-Server"]
+	path = FTP-Server
+	url = https://github.com/parnianf/FTP-Server.git
